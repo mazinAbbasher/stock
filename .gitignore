@@ -1,0 +1,15 @@
+.env
+.venv
+stock/__pycache__
+stock/migrations/__pycache__
+alerts/migrations/__pycache__
+alerts/__pycache__
+.vscode/
+Pipfile
+Pipfile.lock
+__pycache__
+venv/
+# db.sqlite3
+# /images/
+# /static/
+# !/api/static/

@@ -1,0 +1,7 @@
+Django>=3.2
+djangorestframework
+djangorestframework-simplejwt
+celery
+redis
+python-dotenv
+# Add any other dependencies your project uses below
